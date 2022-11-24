@@ -9,7 +9,6 @@
 #include <HardwareSerial.h>
 
 // define pins
-#define output10 10
 #define receiver 33
 #define transmitter 32
 
